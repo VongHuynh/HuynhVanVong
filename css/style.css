@@ -17,7 +17,7 @@ Author: themehippo.com
 
 body {
     font-family : 'Hind', sans-serif;
-    font-size   : 15px;
+    font-size   : 17px;
     line-height : 1.8em;
     color       : #3d3d50;
     font-weight : 300;
@@ -240,6 +240,8 @@ button:focus,
 .section-title h2 {
     margin-bottom : 5px;
     color         : #bebece;
+    font-size: x-large
+    ;
     }
 
 /*-----------------------------
